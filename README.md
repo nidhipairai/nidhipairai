@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hiya, my name is Nidhi and I'm an undergraduate student studying theoretical physics! (Not the biggest fan of labs). As part of my course, I learn a lot of maths and programming skills. We specifically code in Python. Over the last year, I have worked on numerous projects through my module, for example simulating planetary orbits using the Euler method, and using Monte Carlo methods. 
+
+I'm looking to upskill and keep track of such projects here! 
 <!--
 **nidhipairai/nidhipairai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
